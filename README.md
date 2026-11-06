@@ -1,19 +1,19 @@
-# 🚗 Personal Commute Time Prediction & Analytics
+# Personal Commute Time Prediction & Analytics
 
 A Machine Learning project that predicts commute duration based on departure time, traffic conditions, weather, and date using Python and Streamlit.
 
 **Route:** Chethicode → Knovista Technologies, Kadavanthra, Kochi.
 
-## 🎯 Project Objectives
+## Project Objectives
 - Predict commute duration using Machine Learning.
 - Analyse travel patterns and trends.
 - Compare different departure times.
 - Build an interactive analytics dashboard.
 
-## 🛠️ Technologies
+## Technologies
 Python | Pandas | NumPy | Matplotlib | Scikit-learn | Streamlit | Joblib
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 Compared three regression algorithms:
 - Ridge Regression
 - Random Forest Regressor
@@ -29,7 +29,7 @@ Compared three regression algorithms:
 
 *Note: Results are based on a simulated dataset and do not represent validated real-world prediction accuracy.*
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 1. **Commute Prediction** – Predict travel duration and estimated arrival time.
 2. **Commute Analytics** – Explore travel trends and visualizations.
@@ -38,17 +38,9 @@ Compared three regression algorithms:
 
 ## 📸 Screenshots
 
-### Commute Prediction
-![Prediction](screenshots/commute-prediction.png)
+<img width="1910" height="963" alt="Screenshot 2026-11-06 160413" src="https://github.com/user-attachments/assets/3bf55e8c-5eda-473d-8b89-cb320791d3dc" />
+<img width="412" height="122" alt="Screenshot 2026-11-06 144021" src="https://github.com/user-attachments/assets/29d18d90-6404-4dbf-9d94-fe5928236a4c" />
 
-### Commute Analytics
-![Analytics](screenshots/commute-analytics.png)
-
-### Departure Comparison
-![Comparison](screenshots/departure-comparison.png)
-
-### Model Performance
-![Model Performance](screenshots/model-performance.png)
 
 ## ⚙️ Run Locally
 
